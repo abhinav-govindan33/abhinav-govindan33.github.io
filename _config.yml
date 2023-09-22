@@ -68,9 +68,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://scholar.google.co.in/citations?user=G8rwhhUAAAAJ&hl=en"
+
 
 footer:
   links:
