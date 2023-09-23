@@ -16,11 +16,9 @@
 title: Abhinav Govindan Iyer
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Research Intern in Helioseismology at the Indian Institute of Astrophysics, Bangalore.
 twitter_username: username
-github_username: username
+github_username: abhinav-govindan33
 minimal_mistakes_skin: default
 search: true
 
@@ -71,6 +69,8 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/abhinav-govindan-a909251b9/"
+    -label: "Google Scholar"
+     icon: "fab fa-fw fa-graduation-cap
 
 footer:
   # links:
