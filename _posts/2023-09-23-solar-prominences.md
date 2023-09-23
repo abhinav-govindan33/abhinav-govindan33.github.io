@@ -1,6 +1,6 @@
 ---
 title: "Formation of Solar Prominences Through Simulations"
-date: 2023-09-2023
+date: 2023-09-23
 categories:
   - blog
 tags:
