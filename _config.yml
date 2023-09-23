@@ -69,8 +69,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/abhinav-govindan-a909251b9/"
-    -label: "Google Scholar"
-     icon: "fab fa-fw fa-graduation-cap
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap
+      url: "https://scholar.google.co.in/citations?user=G8rwhhUAAAAJ&hl=en"
 
 footer:
   # links:
