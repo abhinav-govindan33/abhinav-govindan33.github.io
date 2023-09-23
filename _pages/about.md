@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! I'm Abhinav and I currently work as a research intern in helioseismology at the Indian Institute of Astrophysics, Bangalore under Prof. S.P Rajaguru. I completed my M.Sc Physics degree from the Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, where I worked under Dr. Nitin Yadav on the topic of solar prominences. Before that, I completed my B.Sc Physics (Honours) at Azim Premji University, Bangalore and worked on my thesis under Dr. Jayanth Vyasanakere on solar system dynamics and n-body problems. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am primarily interested in solar physics, with a broader interest in astrophysics. I have worked on projects involving numerical simulations as well as data analysis using observations. Pursuing a PhD in astrophysics is my future goal and I'm on the lookout for any opportunities. 
