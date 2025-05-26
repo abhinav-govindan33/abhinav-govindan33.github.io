@@ -3,6 +3,8 @@ permalink: /about/
 title: "About Me"
 ---
 
-Hello! I'm Abhinav and I currently work as a research intern in helioseismology at the Indian Institute of Astrophysics, Bangalore under Prof. S.P Rajaguru. I completed my M.Sc Physics degree from the Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, where I worked under Dr. Nitin Yadav on the topic of solar prominences. Before that, I completed my B.Sc Physics (Honours) at Azim Premji University, Bangalore and worked on my thesis under Dr. Jayanth Vyasanakere on solar system dynamics and n-body problems. 
+I am a PhD student at the Sydney Institute for Astronomy in The University of Sydney. I work with Prof. Michael Wheatland on studying magnetic fields in the solar corona using numerical simulations and data from the Helioseismic and Magnetic Imager (HMI) on board the Solar Dynamics Observatory (SDO).   
 
-I am primarily interested in solar physics, with a broader interest in astrophysics. I have worked on projects involving numerical simulations as well as data analysis using observations. Pursuing a PhD in astrophysics is my future goal and I'm on the lookout for any opportunities. 
+I completed my Masters in Physics from the Indian Institute of Science Education and Research (IISER) Thiruvananthapuram, where I worked with Dr. Nitin Yadav studying the formation of solar prominences. I completed my undergraduate degree at Azim Premji University, Bangalore, where I worked with Dr. Jayanth Vyasanakere on _n_-body simulations of the solar system. I also worked as a research intern at the Indian Institute of Astrophysics, Bangalore with Prof. S.P Rajaguru, studying plasma flows around emerging solar active regions using helioseismology. 
+
+
