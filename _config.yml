@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Abhinav Govindan Iyer
-email:
+email: aiye0287@uni.sydney.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Research Intern in Helioseismology at the Indian Institute of Astrophysics, Bangalore.
+  I am a PhD candidate at The University of Sydney
 twitter_username: username
 github_username: abhinav-govindan33
 minimal_mistakes_skin: neon
@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Asia/Calcutta 
+timezone: Australia/Sydney 
 
 include:
   - _pages
@@ -56,10 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Astrophysicist"
+  name   : "PhD Candidate"
   avatar : "/assets/images/DP_for_Work.jpg"
-  bio    : "Research Intern in Helioseismology at Indian Institute of Astrophysics, Bangalore"
+  bio    : "The University of Sydney"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aiye0287@uni.sydney.edu.au"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/abhinav-govindan33/"
