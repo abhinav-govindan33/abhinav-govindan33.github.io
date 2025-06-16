@@ -17,10 +17,13 @@ I completed my undergraduate degree at [Azim Premji University](https://azimprem
 ## Education
 
 **PhD in Physics** (2024-Present)  
+
 *The University of Sydney*
 
 **M. Sc. in Physics** (2021-2023)
+
 *Indian Institute of Science Education and Research (IISER) Thiruvananthapuram*
 
 **B. Sc. (Honours) in Physics** (2018-2021)  
+
 *Azim Premji University, Bangalore*
